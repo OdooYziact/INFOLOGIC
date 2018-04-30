@@ -1,0 +1,4 @@
+[submodule "fdupuped/ui-color"]
+	path = fdupuped/ui-color
+	url = git@github.com:fdupuped/ui-color.git
+	branch = master
